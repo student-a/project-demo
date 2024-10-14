@@ -1,4 +1,4 @@
 # project-demo
- author  : srinivas(saitg)
+ author  : srinivas(saitga)
  <br>
  my first project demo
